@@ -1,5 +1,5 @@
 # Biking to Epicodus
-### _The story of missing my exit._
+>### _The story of missing my exit._
 
 Today, I gave myself **30 minutes** to get to class, for a bicycle ride that is only supposed to take **15 minutes**. I managed to miss the correct street to cross the Burnside bridge. Moving forward, here are the directions to get to class:
 
