@@ -11,4 +11,4 @@ Today, I gave myself **30 minutes** to get to class, for a bicycle ride that is 
 
 ### The _main_ lesson I learned is that I should give myself more time when riding to class, and also turn up the volume on google maps so I can hear what the map lady is saying!
 
-##Additionally, now that I've done the trip once and will be returning the way I came, next Monday should be _much_ easier!
+## Additionally, now that I've done the trip once and will be returning the way I came, next Monday should be _much_ easier!
